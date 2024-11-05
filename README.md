@@ -30,7 +30,7 @@ Feel free to download, modify, or use it as a base for your own projects!
 - Avoid hitting the walls or the snake's own body, or the game will be over.
 
 ## Screenshots
-![Snake Game Screenshot](./images/snake.png)
+![Snake Game Screenshot](./snake.png)
 
 ## Author
 - **James Danforth** - Junior at Lehigh University studying Computer Science and Business.
