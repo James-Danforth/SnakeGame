@@ -7,7 +7,7 @@ Feel free to download, modify, or use it as a base for your own projects!
 
 ## Technologies Used
 - **Java**: For all backend components.
-- **JFRAME Package**: For helping with the UI design.
+- **JFrame Package**: For helping with the UI design.
 
 ## Features
 - Real-time snake movement with arrow keys.
